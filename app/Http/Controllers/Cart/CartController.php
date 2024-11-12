@@ -3,7 +3,6 @@
 namespace App\Http\Controllers\Cart;
 
 use App\Http\Controllers\Controller;
-use App\Http\Requests\AddToCartRequest;
 use App\Services\CartService;
 use Illuminate\Http\Request;
 
